@@ -11,5 +11,5 @@ def introduction(name)
 end
 
 def introduction(name, language)."
-  puts "Hi, my name is #{Liz} and I am learning #{Methods}."
+  puts "Hi, my name is #{Liz} and I am learning #{Methods}"
 end
