@@ -10,7 +10,7 @@ name = "Liz"
 language = "Methods"
 
 def introduction(name)
-  puts "Hi, my name is #{name}"
+  puts "Hi, my name is #{name}."
 end
 
 def introduction(name, language)
