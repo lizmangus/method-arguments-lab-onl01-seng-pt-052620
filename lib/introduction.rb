@@ -6,8 +6,6 @@ end
 def introduction(name)
 end
 
-name = "Liz"
-language = "Methods"
 
 def introduction(name)
   puts "Hi, my name is #{name}."
